@@ -2,6 +2,8 @@
 
 Este projeto consiste em uma aplicação web que consulta a API gratuita [agify.io](https://agify.io) e retorna a estimativa de idade para um nome informado pelo usuário. O objetivo é demonstrar habilidades com SvelteKit, manipulação de query string, debounce, e estilização customizada.
 
+Link da página para teste: https://voltera-frontend-test-flax.vercel.app/
+
 ## Tecnologias utilizadas
 
 - SvelteKit
